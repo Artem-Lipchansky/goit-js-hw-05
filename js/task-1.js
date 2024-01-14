@@ -2,7 +2,7 @@ const getUserNames = users => {
   return users.map(user => user.name);
 };
 
-// ===== Task-1 ===== //
+// ===== TASK-1 ===== //
 
 console.log(
   getUserNames([

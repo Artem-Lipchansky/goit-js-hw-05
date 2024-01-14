@@ -6,7 +6,7 @@ const getTotalBalanceByGender = (allUsers, gender) => {
     }, 0);
 };
 
-// ===== Task-4 ===== //
+// ===== TASK-4 ===== //
 
 const allUsers = [
   {

@@ -2,7 +2,7 @@ const sortByDescendingFriendCount = users => {
   return users.toSorted((a, b) => b.friends.length - a.friends.length);
 };
 
-// ===== Task-3 ===== //
+// ===== TASK-3 ===== //
 
 console.log(
   sortByDescendingFriendCount([
